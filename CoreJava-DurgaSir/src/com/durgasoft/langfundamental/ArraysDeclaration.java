@@ -1,4 +1,4 @@
-package com.durgasoft.grv;
+package com.durgasoft.langfundamental;
 
 public class ArraysDeclaration {
 
